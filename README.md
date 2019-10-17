@@ -1,2 +1,2 @@
 # NOTE
-just note
+Record some temp text.
